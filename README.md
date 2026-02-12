@@ -38,4 +38,4 @@ IEEE Member
 </p>
 <p align="center">
   <img src="1000037415.jpg" width="600"/>
-/p>
+
