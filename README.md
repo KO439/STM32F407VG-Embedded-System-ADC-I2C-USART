@@ -38,36 +38,4 @@ IEEE Member
 </p>
 <p align="center">
   <img src="1000037415.jpg" width="600"/>
-</p>
-
-
-+--------------------+
-        |   Analog Inputs    |
-        |  (Potentiometers)  |
-        +---------+----------+
-                  |
-                  v
-        +--------------------+
-        |       ADC1         |
-        |  Multi-channel     |
-        +---------+----------+
-                  |
-          (Trigger: TIM2 TRGO)
-                  |
-                  v
-        +--------------------+
-        |     STM32F407VG    |
-        |  Cortex-M4 Core    |
-        |  NVIC + Interrupts |
-        +----+---------+-----+
-             |         |
-             |         |
-             v         v
-     +-----------+   +------------+
-     |   I2C1    |   |   USART3   |
-     |  DS1621   |   |  HC-05 BT  |
-     +-----------+   +------------+
-             |               |
-             v               v
-     Temperature       Wireless Data
-        Sensor          Transmission
+/p>
