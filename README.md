@@ -34,5 +34,8 @@ IEEE Member
 
 
 <p align="center">
-  <img src="images/block_diagram.png" width="600"/>
+  <img src="1000037416.jpg" width="600"/>
+</p>
+<p align="center">
+  <img src="1000037415.jpg" width="600"/>
 </p>
